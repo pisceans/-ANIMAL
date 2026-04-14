@@ -1,0 +1,6 @@
+title: Animal Solana Token
+description: The wildest community-driven token on Solana.
+theme: jekyll-theme-cayman # Anda bisa menggunakan theme dasar GitHub
+remote_theme: pages-themes/cayman@v0.2.0
+google_analytics:
+show_downloads: false
